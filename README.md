@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=arial&color=%23E51414&center=true&lines=Full-Stack+web+beginner;Always+wanting+to+learn+new+things">
+  <img src="https://readme-typing-svg.herokuapp.com?font=arial&color=%23E51414&center=true&lines=Full-stack+web+beginner;Always+wanting+to+learn+new+things;Full-stack+web+iniciante;Sempre+querendo+aprender+coisas+novas">
 </p>
 
 <h2 align="center">
@@ -53,3 +53,21 @@
   <br>
   📫 Qualquer dúvida ou sugestões, entre em contato: <a href="mailto: igorroberto1962@hotmail.com">igorroberto1962@hotmail.com</a>
 </p>
+
+<hr>
+<h2 align="center">🔥 Linguagens que estou estudando atualmente/Languages studying currently 🔥</h2>
+<br>
+
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+ 
+</p>
+<hr>
